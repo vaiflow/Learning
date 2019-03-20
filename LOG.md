@@ -9,5 +9,7 @@
 //
 //21 Mar -
 //  First day of full study. Studying 'Practical Javascript' from WatchAndCode.com, learning about functions and variables.
-//  
- 
+//  Introduction to objects and object properties. Learnt about 'this' keyword, and how it references the object it is inside.
+//  Learnt about 'Method', an object property that is set to a function.
+//  Learnt about Boolean values application in Javascript, including the use of bang '!'.
+//  Learnt about the 'for' loop and its syntax structure. (initialization, condition, final expression)
