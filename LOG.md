@@ -13,3 +13,5 @@
 //  Learnt about 'Method', an object property that is set to a function.
 //  Learnt about Boolean values application in Javascript, including the use of bang '!'.
 //  Learnt about the 'for' loop and its syntax structure. (initialization, condition, final expression)
+//  Learnt about the increment '++' and decrement '--' operators.
+//  
